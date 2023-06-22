@@ -1,0 +1,1 @@
+package cubes.pages.categories;
